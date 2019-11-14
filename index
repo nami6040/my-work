@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="ko">
+ <head>
+  <meta charset="UTF-8">
+  <title></title>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+  <script>
+		$(document).ready(function(){
+						
+		}) // 마지막 괄호 항상 유지. 전체 문서괄호는 지우지 않음
+  </script><style>
+	* { margin: 0; padding: 0; list-style: none; }	
+	
+  </style></head><body>
+    
+				
+ </body>
+</html>
